@@ -1,4 +1,4 @@
-# single-civ-extreme
+# kush-extreme
 
 The Kushites are 3x more powerful than normal.
 
