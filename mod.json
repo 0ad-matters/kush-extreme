@@ -1,0 +1,12 @@
+{
+	"name": "kush-extreme",
+	"version": "0.26.0",
+	"label": "kush-extreme",
+	"description": "The Kushites are 3x more powerful than normal.",
+	"dependencies": [
+		"0ad=0.0.26"
+	],
+	"url": "https://github.com/0ad-matters/single-civ-extreme",
+	"author_name": "Andy Alt",
+	"author_profile": "https://github.com/andy5995"
+}
