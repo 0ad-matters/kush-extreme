@@ -9,4 +9,6 @@ The Kushites are 3x more powerful than normal.
 This can be done from the website at
 https://github.com/0ad-matters/kush-extreme
 
+or the [0ad forum
+post](https://wildfiregames.com/forum/topic/91251-kush-extreme/)
 
