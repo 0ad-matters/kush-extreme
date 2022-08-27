@@ -1,6 +1,6 @@
 # kush-extreme
 
-The Kushites are 3x more powerful than normal.
+Makes the Kushites very OP
 
 (a mod for [0ad](https://play0ad.com/))
 

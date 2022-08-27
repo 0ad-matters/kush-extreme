@@ -1,8 +1,8 @@
 {
 	"name": "kush-extreme",
-	"version": "0.26.0",
+	"version": "0.26.1",
 	"label": "kush-extreme",
-	"description": "The Kushites are 3x more powerful than normal.",
+	"description": "Makes the Kushites very OP",
 	"dependencies": [
 		"0ad=0.0.26"
 	],
