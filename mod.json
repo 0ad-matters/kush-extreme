@@ -1,12 +1,12 @@
 {
 	"name": "kush-extreme",
-	"version": "0.26.1999",
+	"version": "0.26.2",
 	"label": "kush-extreme",
 	"description": "Makes the Kushites very OP",
 	"dependencies": [
 		"0ad=0.0.26"
 	],
-	"url": "https://github.com/0ad-matters/single-civ-extreme",
+	"url": "https://github.com/0ad-matters/kush-extreme",
 	"author_name": "Andy Alt",
 	"author_profile": "https://github.com/andy5995"
 }

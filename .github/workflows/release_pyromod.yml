@@ -18,7 +18,7 @@ jobs:
         zip -r ${HOME}/${MOD_NAME}-${MOD_VERSION}.zip . -x .git\*
         mv ${HOME}/${MOD_NAME}*.zip $PWD
         cp ${MOD_NAME}-${MOD_VERSION}.zip ${MOD_NAME}-${MOD_VERSION}.pyromod
-    - name: Deploy PyroMod
+    - name: Release PyroMod
       uses: ncipollo/release-action@v1
       with:
         allowUpdates: True
