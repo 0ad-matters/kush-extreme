@@ -13,7 +13,8 @@ jobs:
       MOD_VERSION: ${{ github.ref_name }}
     steps:
     - uses: actions/checkout@v3
-    - run: |
+    - name: Massage Variables
+      run: |
         # remove "<owner>/" from repository string
         echo "MOD_NAME=${MOD_NAME#*/}" >> $GITHUB_ENV
         # remove 'v' from version string
@@ -23,7 +24,8 @@ jobs:
         name: ${{ env.MOD_NAME }}
         version: ${{ env.MOD_VERSION }}
       id: build-pyromod
-    - run: |
+    - name: Create sha256sum
+      run:  |
         OUTPUT_FILE="$MOD_NAME-$MOD_VERSION.pyromod"
         cd output
         sha256sum $OUTPUT_FILE > $OUTPUT_FILE.sha256sum
