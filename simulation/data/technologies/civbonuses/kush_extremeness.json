@@ -8,8 +8,7 @@
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 3.0 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 3.0 },
-		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 3.0 },
-		{ "value": "Health/Max", "multiply": 3.0 }
+		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 3.0 }
 	],
-	"affects": ["FemaleCitizen", "Soldier !Champion", "Champion !FemaleCitizen", "Siege"]
+	"affects": ["FemaleCitizen", "Soldier !Champion", "Champion !FemaleCitizen"]
 }
