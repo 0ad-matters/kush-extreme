@@ -6,14 +6,10 @@
 	"icon": "hospital.png",
 	"tooltip": "3 times the HP, minus all the political discussions.",
 	"modifications": [
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.2 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.2 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.2 },
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.2 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.2 },
-		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 1.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 1.5 },
-		{ "value": "Health/Max", "multiply": 1.5 }
+		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 3.0 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 3.0 },
+		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 3.0 },
+		{ "value": "Health/Max", "multiply": 3.0 }
 	],
-	"affects": ["FemaleCitizen", "Champion !FemaleCitizen !Soldier", "Soldier !Siege !Champion", "Siege !Champion !Soldier"]
+	"affects": ["FemaleCitizen", "Soldier !Champion", "Champion !FemaleCitizen", "Siege"]
 }
