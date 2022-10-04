@@ -1,7 +1,7 @@
 {
 	"name": "kush-extreme",
-	"version": "0.26.2999",
-	"label": "kush-extreme",
+	"version": "0.26.3",
+	"label": "Kush Extreme",
 	"description": "Makes the Kushites very OP",
 	"dependencies": [
 		"0ad=0.0.26"
