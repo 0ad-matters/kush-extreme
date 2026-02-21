@@ -1,10 +1,10 @@
 {
 	"name": "kush-extreme",
-	"version": "0.27.0",
+	"version": "0.28.0",
 	"label": "Kush Extreme",
 	"description": "Makes the Kushites very OP",
 	"dependencies": [
-		"0ad=0.27.0"
+		"0ad=0.28.0"
 	],
 	"url": "https://github.com/0ad-matters/kush-extreme",
 	"author_name": "Andy Alt",

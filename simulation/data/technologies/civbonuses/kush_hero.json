@@ -1,0 +1,14 @@
+{
+	"genericName": "Kush Extremeness supplement",
+	"autoResearch": true,
+	"description": "Affects Kush heroes",
+	"requirements": { "civ": "kush" },
+	"icon": "hospital.png",
+	"tooltip": "2 times the HP, minus all the political discussions.",
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 2 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 2 },
+		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 2 }
+	],
+	"affects": ["Hero"]
+}

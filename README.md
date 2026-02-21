@@ -5,11 +5,11 @@ Makes the Kushites very OP
 (a mod for [0ad](https://play0ad.com/))
 
 To use this mod, just select Kushites as the civ, there is no need to change
-the bot settings. Most of the Kush units will have a higher HP. This mod is
-primarily when you want to fight a more difficult AI than the default "Very
-Hard" AI. Another benefit is that you can play a game with fewer units on the
-map because you can replace two or three AI opponents with one Kushite
-opponent.
+the bot settings. Adds an armor multiplier of 3.0 to most units, and 2.0 to
+heroes. This mod is primarily when you want to fight a more difficult AI than
+the default "Very Hard" AI. Another benefit is that you can play a game with
+fewer units on the map because you can replace two or three AI opponents with
+one Kushite opponent.
 
 ## Issues and discussions
 
